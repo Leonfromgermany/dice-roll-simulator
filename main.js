@@ -1,4 +1,4 @@
-// Dice Roll Simulator Demo
+// Dice Roll Simulator 
 
 // HTML Element for Output
 let outputEl = document.getElementById("output");
